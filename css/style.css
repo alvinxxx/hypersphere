@@ -1,0 +1,24 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.section {
+
+  /**background-image: url("../img/index5.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  **/
+  padding: 10em 10em 30em 10em;
+
+}
